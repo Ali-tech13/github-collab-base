@@ -1,3 +1,5 @@
+# Collaboration Guidelines
+
 Collaboration requires adaptability, trust, and continuous alignment among team members.
 When multiple people work on these documents, it is common for changes to overlab. Overlapping change can lead to merge conflicts, which are a normal part of a collaboration workflow.
 The most important aspect of colaboration is communication. Comment in pull requests, documentation updates,and explanations of change all help maintain a shared understanding of the project.
